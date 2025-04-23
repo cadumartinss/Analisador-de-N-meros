@@ -1,8 +1,8 @@
-📊 Projeto Analisador de Números  
+## 📊 Projeto Analisador de Números  
 
 Aplicação que permite adicionar números entre 1 e 100, verificar se já foram inseridos e, ao finalizar, exibe um resumo com a quantidade total, maior e menor valor, soma e média dos números inseridos.
 
-🔍 Funcionalidades
+### 🔍 Funcionalidades
 - Validação de números (apenas entre 1 e 100).
 
 - Prevenção de números repetidos.
@@ -21,13 +21,13 @@ Aplicação que permite adicionar números entre 1 e 100, verificar se já foram
 
 - Botão de Limpar para reiniciar tudo.
 
-💡 Tecnologias utilizadas
+### 💡 Tecnologias utilizadas
 - HTML5
 
 - CSS3
 
 - JavaScript puro (Vanilla JS)
 
-👨‍💻 Autor
+### 👨‍💻 Autor
 
 Carlos Martins
